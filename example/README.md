@@ -10,3 +10,9 @@ your package manager should have a decent version of GLFW there somewhere.
 You probably can't get away with an older version of GLFW.
 
 **OS X, Linux, Windows**: `luajit ./main.lua`
+
+(Windows? Consider luapower. It has a 64-bit build of LuaJIT and uses it by default.)
+
+[[https://github.com/leafi/luajit-bgfx/blob/master/example/screenshots/win_screenshot.png|alt=Win64_screenshot]]
+
+[[https://github.com/leafi/luajit-bgfx/blob/master/example/screenshots/osx_screenshot.png|alt=OSX64_screenshot]]
