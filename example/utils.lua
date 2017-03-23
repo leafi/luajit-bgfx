@@ -31,7 +31,7 @@ function utils.shaderprog(vpath, fpath)
 end
 
 function utils.gentexture()
-  -- generates a really really simple 16x16 texture
+  -- generates a really really simple 128x128 texture
   local raw = ffi.new('char [?]', 128*128*4)
   for y=0,127 do
     for x=0,127 do
