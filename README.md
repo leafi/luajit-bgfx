@@ -27,7 +27,7 @@ The example code especially may fall over on a 32-bit system. Who knows?
 
 ## Directory layout
 
-* **built/**: Output from the bindings generator & a few binaries
+* **built/**: Output from the bindings generator & a few binaries (warning: Arch Linux .so build)
 * **bgfx-include/**: What the binding generator builds from
 * **example/**: An example application using BGFX and GLFW together to show a quad
 * **this directory**: Fluff &amp; the binding generator.
