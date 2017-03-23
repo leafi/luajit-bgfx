@@ -1,0 +1,15 @@
+This glfw binding is actually third-party.
+
+https://github.com/Playermet/luajit-glfw
+
+=======
+CHANGES
+=======
+
+* Added e.g. glfw.GetX11* functions sufficient to get bgfx working
+* Added glfw.GetWin32Window()
+* Added glfw.GetX11Display()
+
+All my changes assume the 64-bit version of the given operating system!
+
+Param types (e.g. what length is a X11Window?) are my best guesses. Seems to work.
