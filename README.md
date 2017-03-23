@@ -2,6 +2,8 @@
 
 LuaJIT bindings for bgfx.
 
+![Win64 screenshot](https://github.com/leafi/luajit-bgfx/blob/master/example/screenshots/win_screenshot.png)
+
 (This is a port of work I've created for a personal project.)
 
 The binding generator is barely sufficient for parsing the BGFX C headers.
